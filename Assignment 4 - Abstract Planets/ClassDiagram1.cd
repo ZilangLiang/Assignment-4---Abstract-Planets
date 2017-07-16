@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Assignment_4___Abstract_Planets.Planet">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBIAAgAAAAAEAGAAAAAAQBACAAAAAAEAABAACAAQA=</HashCode>
+      <FileName>Planet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Assignment_4___Abstract_Planets.IHasMoons">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IHasMoons.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Assignment_4___Abstract_Planets.IHasRings">
+    <Position X="3.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IHasRings.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
