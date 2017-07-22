@@ -7,5 +7,6 @@ namespace Assignment_4___Abstract_Planets
 {
     public interface IHasMoons
     {
+        bool HasMoons;
     }
 }
