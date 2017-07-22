@@ -3,7 +3,12 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+/// <summary>
+/// Name: Zilang Liang
+/// Date:July 22, 2017
+/// Description: This is the GiantPlanet class for my project
+/// version 0.1
+/// </summary>
 namespace Assignment_4___Abstract_Planets
 {
     class GiantPlanet : Planet,IHasMoons,IHasRings

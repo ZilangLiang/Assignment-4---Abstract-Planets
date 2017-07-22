@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 /// <summary>
-/// This is IHasRings Interface
+/// This is IHabitable Interface
 /// </summary>
 namespace Assignment_4___Abstract_Planets
 {
-    public interface IHasRings
+    interface IHabitable
     {
-        bool HasRings { get; set; }
+        bool Habitable { get; set; }
     }
 }
